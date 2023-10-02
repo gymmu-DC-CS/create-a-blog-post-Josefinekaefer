@@ -33,6 +33,11 @@ body{
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
   margin-bottom: 10px;
+  transition: ease-in-out ;
+}
+
+.box_1:hover{
+  box-shadow: 0px 0px 0px 0px black; 
 }
 
 .box_2{
@@ -44,6 +49,11 @@ body{
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
   margin-bottom: 10px;
+  transition: ease-in-out;
+}
+
+.box_2:hover{
+  box-shadow: 0px 0px 0px 0px black; 
 }
 
 .box_3{
@@ -55,6 +65,11 @@ body{
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
   margin-bottom: 10px;
+  transition: ease-in-out;
+}
+
+.box_3:hover{
+  box-shadow: 0px 0px 0px 0px black; 
 }
 
 .box_4{
@@ -66,6 +81,11 @@ body{
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
   margin-bottom: 10px;
+  transition: ease-in-out;
+}
+
+.box_4:hover{
+  box-shadow: 0px 0px 0px 0px black; 
 }
 
 .box_5{
@@ -77,6 +97,11 @@ body{
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
   margin-bottom: 10px;
+  transition: ease-in-out;
+}
+
+.box_5:hover{
+  box-shadow: 0px 0px 0px 0px black; 
 }
 
 .box_6{
@@ -88,4 +113,9 @@ body{
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
   margin-bottom: 10px;
+  transition: ease-in-out;
+}
+
+.box_6:hover{
+  box-shadow: 0px 0px 0px 0px black; 
 }

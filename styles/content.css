@@ -1,0 +1,16 @@
+.boxTitle{
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+}
+
+ul {
+    list-style: none;
+    margin-left: -20px;
+}
+
+.key {
+    font-weight: 600;
+}
