@@ -14,3 +14,17 @@ ul {
 .key {
     font-weight: 600;
 }
+
+.imageContainer{
+    width: 380px;
+    height: 380px;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.signText{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 80px;
+    padding-top: 30px;
+}
