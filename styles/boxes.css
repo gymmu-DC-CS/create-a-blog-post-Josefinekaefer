@@ -3,6 +3,7 @@ body{
   padding: 0;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: deepskyblue;
 }
 
 .topTitle{
@@ -13,7 +14,7 @@ body{
 }
 
 .specialTitle{
-  background: -webkit-linear-gradient(#B195B0, #7E5D7D);
+  background: -webkit-linear-gradient(#b30d18,#b30d18);
   -webkit-background-clip:text;
   -webkit-text-fill-color: transparent;
 
@@ -28,7 +29,7 @@ body{
 .box_1{
   width:32%;
   height: 380px;
-  background: #D9D9D9;
+  background: #93e1e8;
   margin-left:10px;
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
@@ -43,7 +44,7 @@ body{
 .box_2{
   width:32%;
   height: 380px;
-  background: #D9D9D9;
+  background: #93e1e8;
   margin-left:425px;
   margin-top: -730px;
   border-radius: 8px;
@@ -59,7 +60,7 @@ body{
 .box_3{
   width:32%;
   height: 330px;
-  background: #D9D9D9;
+  background: #93e1e8;
   margin-left:425px;
   margin-top: 0px;
   border-radius: 8px;
@@ -74,8 +75,8 @@ body{
 
 .box_4{
   width:32%;
-  height: 330px;
-  background: #D9D9D9;
+  height: 400px;
+  background: #93e1e8;
   margin-left:840px;
   margin-top: -840px;
   border-radius: 8px;
@@ -89,9 +90,9 @@ body{
 }
 
 .box_5{
-  width:32%;
+  width: 32%;
   height: 400px;
-  background: #D9D9D9;
+  background: #93e1e8;
   margin-left:840px;
   margin-top: 0px;
   border-radius: 8px;
@@ -107,7 +108,7 @@ body{
 .box_6{
   width:32%;
   height: 80px;
-  background: #D9D9D9;
+  background: #93e1e8;
   margin-left:840px;
   margin-top: -10px;
   border-radius: 8px;
