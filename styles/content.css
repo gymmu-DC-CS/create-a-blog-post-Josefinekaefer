@@ -5,7 +5,9 @@
     position: relative;
     top: 10px;
 }
-
+.boxTitle:nth-child(1){
+    margin-left: 70px;
+}
 ul {
     list-style: none;
     margin-left: -20px;
@@ -14,9 +16,13 @@ ul {
 .key {
     font-weight: 600;
 }
+.key2 {
+    font-weight: 600;
+    margin-left: 50px;
+}
 
 .imageContainer{
-    width: 380px;
+    width: 370px;
     height: 380px;
     margin-left: 10px;
     border-radius: 50px;
@@ -25,8 +31,16 @@ ul {
 .imageContainer2{
     width: 280px;
     /* height: 380px; */
-    margin-left: 10px;
-    border-radius: 50px;
+    margin-left: 55px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.imageContainer3{
+    width: 200px;
+    height: 235px;
+    margin-left: 50px;
+    border-radius: 10px;
 }
 
 
@@ -42,4 +56,11 @@ ul {
     margin-left: 120px;
     font-size: 20px;
     font-weight: 600;
+}
+
+.imageLabel2{
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight:600;
 }
