@@ -24,8 +24,8 @@ ul {
 .imageContainer{
     width: 370px;
     height: 380px;
-    margin-left: 10px;
-    border-radius: 50px;
+    margin-left: 20px;
+    border-radius: 10px;
 }
 
 .imageContainer2{
@@ -43,6 +43,13 @@ ul {
     border-radius: 10px;
 }
 
+.imageContainer4{
+    width: 300px;
+    height: 180px;
+    margin-left:  50px;
+    border-radius: 10px;
+}
+
 
 .signText{
     font-size: 20px;
@@ -53,7 +60,7 @@ ul {
 
 .imageLabel{
     margin-top: -80px;
-    margin-left: 120px;
+    margin-left: 110px;
     font-size: 20px;
     font-weight: 600;
 }
