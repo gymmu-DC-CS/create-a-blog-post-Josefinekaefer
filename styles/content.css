@@ -50,6 +50,13 @@ ul {
     border-radius: 10px;
 }
 
+.imageContainer5{
+    width: 200px;
+    min-height: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
 
 .signText{
     font-size: 20px;
