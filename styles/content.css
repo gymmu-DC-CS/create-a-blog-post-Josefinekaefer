@@ -12,7 +12,7 @@ ul {
     list-style: none;
     margin-left: -20px;
 }
-
+/* I also expanded my styles to a content.css so that I can style my images,font,imagelabels and boxtitles. */
 .key {
     font-weight: 600;
 }

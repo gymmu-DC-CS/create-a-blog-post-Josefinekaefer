@@ -25,7 +25,8 @@ body{
   margin-left: 10px;
   margin-top: -20px;
 }
-
+/* I expanded my style sheeds and calles it box.css . I used a box.css so that I can create my boxes (with you can see on the webpage)  */
+/* I got the layout with seizes ect. for the boxes from the internet and by trying diffrent varities out.  */
 .box_1{
   width:32%;
   height: 380px;
@@ -40,6 +41,7 @@ body{
 .box_1:hover{
   box-shadow: 0px 0px 0px 0px black; 
 }
+/* i added the hover affect so when you click on it, it would have an  */
 
 .box_2{
   width:32%;
@@ -59,7 +61,7 @@ body{
 
 .box_3{
   width:32%;
-  height: 330px;
+  height: 390px;
   background: #f2f2f3;
   margin-left:425px;
   margin-top: 0px;
@@ -78,7 +80,7 @@ body{
   height: 400px;
   background: #f2f2f3;
   margin-left:840px;
-  margin-top: -800px;
+  margin-top: -790px;
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
   margin-bottom: 10px;
@@ -106,10 +108,10 @@ body{
 }
 
 .box_6{
-  width:32%;
-  height: 80px;
+  width:65%;
+  height: 74px;
   background: #f2f2f3;
-  margin-left:840px;
+  margin-left:425px;
   margin-top: -10px;
   border-radius: 8px;
   box-shadow: 0px 4px 4px 0px black;
@@ -132,6 +134,4 @@ body{
   transition: 2s ease-in-out;
 }
 
-.box_7:hover{
-  box-shadow: 0px 0px 0px 0px black;
-}
+
